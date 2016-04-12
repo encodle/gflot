@@ -1,0 +1,1 @@
+**Our [codebase](https://github.com/nmorel/gflot), [issue tracker](https://github.com/nmorel/gflot/issues) and [wiki](https://github.com/nmorel/gflot/wiki) are now hosted by Github. The [forum](https://groups.google.com/forum/?fromgroups#!forum/gflot) is still hosted by Google Groups.**
